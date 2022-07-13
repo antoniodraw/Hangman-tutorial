@@ -1,0 +1,1 @@
+const words = ["chocolate","vagabundo", "melon","sandia","negro","silla"                                                       ]
